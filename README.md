@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @mekush23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... java and c programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...my insta handle khushboorg
-- 😄 Pronouns: ...khushboo
-- ⚡ Fun fact: ...
+- Computer Science Student at universal college of engineering
+- Passionate about tech and web3
+- Currently learning java
+- Looking for opportunities to contribute to open-source projects
 
 <!---
 mekush23/mekush23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
